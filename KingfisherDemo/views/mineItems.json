@@ -1,0 +1,68 @@
+{
+    
+    "assets" : [
+              {
+              "itemIconName" : "",
+              "itemTitle" : "我的钱包",
+              "itemDes" : "办信用卡"
+              },
+              {
+              "itemIconName" : "",
+              "itemTitle" : "余额",
+              "itemDes" : "￥0.00"
+              },
+              {
+              "itemIconName" : "",
+              "itemTitle" : "抵用卷",
+              "itemDes" : "2张待使用"
+              },
+              {
+              "itemIconName" : "",
+              "itemTitle" : "卡包",
+              "itemDes" : "0张"
+              }
+              ],
+    "services" : [
+                {
+                "itemIconName" : "",
+                "itemTitle" : "好友去哪",
+                "itemDes" : ""
+                },
+                {
+                "itemIconName" : "",
+                "itemTitle" : "会员中心",
+                "itemDes" : ""
+                },
+                {
+                "itemIconName" : "",
+                "itemTitle" : "手机充值",
+                "itemDes" : ""
+                },
+                {
+                "itemIconName" : "",
+                "itemTitle" : "发票助手",
+                "itemDes" : ""
+                },
+                  {
+                  "itemIconName" : "",
+                  "itemTitle" : "信用卡还款",
+                  "itemDes" : "随机返现"
+                  },
+                  {
+                  "itemIconName" : "",
+                  "itemTitle" : "客服中心",
+                  "itemDes" : ""
+                  },
+                  {
+                  "itemIconName" : "",
+                  "itemTitle" : "我要合作",
+                  "itemDes" : ""
+                  },
+                  {
+                  "itemIconName" : "",
+                  "itemTitle" : "关于美团",
+                  "itemDes" : ""
+                  },
+                ],
+    "errorCode" : 0
+}
